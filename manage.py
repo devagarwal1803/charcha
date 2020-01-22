@@ -3,7 +3,7 @@ import os
 import re
 import sys
 
-
+#Django will be used
 def read_env():
     """
     See https://wellfire.co/learn/easier-12-factor-django/
